@@ -1,1 +1,2 @@
-console.log(ola)
+const hola = "hola mundo"
+console.log(hola)
